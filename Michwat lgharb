@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <title>مشاوية المغرب</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<header class="navbar">
+  <div class="logo">مشاوية المغرب</div>
+  <nav>
+    <a href="#about">من نحن</a>
+    <a href="#menu">المنيو</a>
+    <a href="#contact">الموقع</a>
+  </nav>
+</header>
+
+<section class="hero">
+  <div class="overlay">
+    <h1>مشاوية المغرب</h1>
+    <p>أفضل المشاوي والطاجين المغربي الأصيل</p>
+  </div>
+</section>
+
+<section id="about" class="section">
+  <h2>من نحن</h2>
+  <p>
+    مطعم مغربي يقدم أشهى الأطباق التقليدية بجودة عالية
+    وأجواء عصرية مستوحاة من الشارع المغربي.
+  </p>
+</section>
+
+<section id="menu" class="section dark">
+  <h2>أشهر الأطباق</h2>
+  <div class="menu-items">
+    <div class="item">🔥 مشاوي مشكلة</div>
+    <div class="item">🥘 طاجين لحم</div>
+    <div class="item">🍗 دجاج مشوي</div>
+    <div class="item">🥗 سلطات مغربية</div>
+  </div>
+</section>
+
+<section id="contact" class="section">
+  <h2>الموقع</h2>
+  <p>نجدونـا في قلب المدينة – مفتوح يوميًا</p>
+</section>
+
+<footer>
+  <p>© 2025 مشاوية المغرب</p>
+</footer>
+
+</body>
+</html>
+index.html
+style.css
+script.js
+IMG_6648.jpeg
